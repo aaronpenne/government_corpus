@@ -46,7 +46,8 @@ for node in soup.find_all('option'):
 metadata = {'pres': [],
             'date': [],
             'title': [],
-            'link': []}
+            'link': [],
+            'filename': []}
 print('Getting metadata')
 for year in years_available:
     soup = scrape('http://www.presidency.ucsb.edu/executive_orders.php?year={}&Submit=DISPLAY'.format(year))
@@ -69,11 +70,6 @@ for year in years_available:
         metadata['title'].append(cell[2].text)
         metadata['link'].append('http://www.presidency.ucsb.edu{}'.format(cell[2].a.get('href')[2:]))
         
-print('Saving metadata')
-df = pd.DataFrame(metadata, columns=['date', 'pres', 'link', 'exec'])
-df.index.name = 'index'
-df.to_csv('list_executive_orders.csv')
-
 # Pull down all the docs
 print('Getting executive orders')
 for i, date in enumerate(metadata['date']):
@@ -81,13 +77,20 @@ for i, date in enumerate(metadata['date']):
         print('{:0.2f}%'.format(100*i/len(metadata['date'])))
     date = metadata['date'][i]
     pres = metadata['pres'][i]
-    output_file = os.path.join(output_dir, '{}_Executive_Order_{}.txt'.format(date, pres))
+    filename = '{}_Executive_Order_{}.txt'.format(date, pres)
+    metadata['filename'].append(filename)
+    output_file = os.path.join(output_dir, filename)
     if not os.path.isfile(output_file):
         soup = scrape(metadata['link'][i])
         text = soup.find('span', class_='displaytext')
         text = text.get_text('\n')
         with open(output_file, 'w+') as f:
             f.write(text)
+
+print('Saving metadata')
+df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'exec'])
+df.index.name = 'index'
+df.to_csv('list_executive_orders.csv')
 
 # -----------------------------------------------------------------------------     
 # Proclamations
@@ -106,7 +109,8 @@ for node in soup.find_all('option'):
 metadata = {'pres': [],
             'date': [],
             'title': [],
-            'link': []}
+            'link': [],
+            'filename': []}
 print('Getting metadata')
 for year in years_available:
     soup = scrape('http://www.presidency.ucsb.edu/proclamations.php?year={}&Submit=DISPLAY'.format(year))
@@ -128,11 +132,6 @@ for year in years_available:
         metadata['date'].append(datetime.strptime(date, '%B %d %Y').strftime('%Y%m%d'))
         metadata['title'].append(cell[2].text)
         metadata['link'].append('http://www.presidency.ucsb.edu{}'.format(cell[2].a.get('href')[2:]))
-        
-print('Saving metadata')
-df = pd.DataFrame(metadata, columns=['date', 'pres', 'link', 'exec'])
-df.index.name = 'index'
-df.to_csv('list_proclamations.csv')
 
 # Pull down all the docs
 print('Getting proclamations')
@@ -141,10 +140,17 @@ for i, date in enumerate(metadata['date']):
         print('{:0.2f}%'.format(100*i/len(metadata['date'])))
     date = metadata['date'][i]
     pres = metadata['pres'][i]
-    output_file = os.path.join(output_dir, '{}_Proclamations_{}.txt'.format(date, pres))
+    filename = '{}_Proclamations_{}.txt'.format(date, pres)
+    metadata['filename'].append(filename)
+    output_file = os.path.join(output_dir, filename)
     if not os.path.isfile(output_file):
         soup = scrape(metadata['link'][i])
         text = soup.find('span', class_='displaytext')
         text = text.get_text('\n')
         with open(output_file, 'w+') as f:
-            f.write(text)
+            f.write(text)     
+            
+print('Saving metadata')
+df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'exec'])
+df.index.name = 'index'
+df.to_csv('list_proclamations.csv')
