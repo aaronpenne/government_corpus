@@ -88,9 +88,9 @@ for i, date in enumerate(metadata['date']):
             f.write(text)
 
 print('Saving metadata')
-df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'exec'])
+df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'title'])
 df.index.name = 'index'
-df.to_csv('list_executive_orders.csv')
+df.to_csv('executive_orders_list.csv')
 
 # -----------------------------------------------------------------------------     
 # Proclamations
@@ -151,6 +151,6 @@ for i, date in enumerate(metadata['date']):
             f.write(text)     
             
 print('Saving metadata')
-df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'exec'])
+df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'title'])
 df.index.name = 'index'
-df.to_csv('list_proclamations.csv')
+df.to_csv('proclamations_list.csv')
