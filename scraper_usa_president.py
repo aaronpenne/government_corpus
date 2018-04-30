@@ -19,28 +19,25 @@ def scrape(url):
         return ''
     return BeautifulSoup(result.content, 'lxml')
 
-def set_output_dir(dir_name):
-    # Set output directory, make it if needed
-    output_dir = os.path.join('output')
-    if not os.path.isdir(output_dir):
-        os.mkdir(output_dir)
-    output_dir = os.path.join(output_dir, dir_name)
-    if not os.path.isdir(output_dir):
-        os.mkdir(output_dir)
-    return output_dir
+def get_years(soup):
+    # I think this more readable than list comprehension
+    years_available = []
+    for node in soup.find_all('option'):
+        year = node.find_all(text=True)[0]
+        years_available.append(year)
+    return years_available
+
+code_dir = os.path.dirname(__file__)
+data_dir = os.path.join(code_dir, 'data') 
+output_dir = os.path.join(code_dir, 'output')
+if not os.path.isdir(output_dir):
+    os.mkdir(output_dir)
 
 # -----------------------------------------------------------------------------
 # Executive Orders
 # -----------------------------------------------------------------------------
 soup = scrape('http://www.presidency.ucsb.edu/executive_orders.php')
-output_dir = set_output_dir('executive_orders')
-
-# Get all years available from drop down menu
-# I think this more readable than list comprehension
-years_available = []
-for node in soup.find_all('option'):
-    year = node.find_all(text=True)[0]
-    years_available.append(year)
+years_available = get_years(soup)
 
 # Get metadata for each executive order from year page
 metadata = {'pres': [],
@@ -63,13 +60,13 @@ for year in years_available:
         month = date[0]
         day = date[1][:-1]
         if int(date[1][:-1]) < 1 or int(date[1][:-1]) > 31:
-            print('Fixing date: {}'.format(cell[1].text)) 
+            print('Fixing date: {}'.format(cell[1].text))
             day = '1'
         date = '{} {} {}'.format(month, day, year)
         metadata['date'].append(datetime.strptime(date, '%B %d %Y').strftime('%Y%m%d'))
         metadata['title'].append(cell[2].text)
         metadata['link'].append('http://www.presidency.ucsb.edu{}'.format(cell[2].a.get('href')[2:]))
-        
+
 # Pull down all the docs
 print('Getting executive orders')
 for i, date in enumerate(metadata['date']):
@@ -87,30 +84,13 @@ for i, date in enumerate(metadata['date']):
         with open(output_file, 'w+') as f:
             f.write(text)
 
-print('Saving metadata')
-df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'title'])
-df.index.name = 'index'
-df.to_csv('executive_orders_list.csv')
-
-# -----------------------------------------------------------------------------     
+# -----------------------------------------------------------------------------
 # Proclamations
 # -----------------------------------------------------------------------------
 soup = scrape('http://www.presidency.ucsb.edu/proclamations.php')
-output_dir = set_output_dir('proclamations')
+years_available = get_years(soup)
 
-# Get all years available from drop down menu
-years_available = []
-for node in soup.find_all('option'):
-    year = node.find_all(text=True)[0]
-    years_available.append(year)
-    
-    
 # Get metadata for each doc from year page
-metadata = {'pres': [],
-            'date': [],
-            'title': [],
-            'link': [],
-            'filename': []}
 print('Getting metadata')
 for year in years_available:
     soup = scrape('http://www.presidency.ucsb.edu/proclamations.php?year={}&Submit=DISPLAY'.format(year))
@@ -126,7 +106,7 @@ for year in years_available:
         month = date[0]
         day = date[1][:-1]
         if int(date[1][:-1]) < 1 or int(date[1][:-1]) > 31:
-            print('Fixing date: {}'.format(cell[1].text)) 
+            print('Fixing date: {}'.format(cell[1].text))
             day = '1'
         date = '{} {} {}'.format(month, day, year)
         metadata['date'].append(datetime.strptime(date, '%B %d %Y').strftime('%Y%m%d'))
@@ -148,9 +128,9 @@ for i, date in enumerate(metadata['date']):
         text = soup.find('span', class_='displaytext')
         text = text.get_text('\n')
         with open(output_file, 'w+') as f:
-            f.write(text)     
-            
+            f.write(text)
+
 print('Saving metadata')
 df = pd.DataFrame(metadata, columns=['date', 'pres', 'filename', 'link', 'title'])
 df.index.name = 'index'
-df.to_csv('proclamations_list.csv')
+df.to_csv('corpus_listing.csv')
