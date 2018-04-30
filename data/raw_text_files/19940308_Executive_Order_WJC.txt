@@ -1,0 +1,54 @@
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Energy Policy and Conservation Act (Public Law 94–163, 89 Stat. 871, 42 U.S.C. 6201
+et seq.
+ ) as amended by the Energy Policy Act of 1992 (Public Law 102–486, 106 Stat. 2776) and section 301 of title 3, United States Code, I hereby order as follows:
+Part 1—Definitions
+For the purposes of this order:
+Section 101. The "Act" means the Federal energy management provisions of the Energy Policy and Conservation Act, as amended by the Energy Policy Act of 1992.
+Sec. 102. The term "comprehensive facility audit" means a survey of a building or facility that provides sufficiently detailed information to allow an agency to enter into energy or water savings performance contracts or to invite inspection and bids by private upgrade specialists for direct agency-funded energy or water efficiency investments. It shall include information such as the following:
+(a) the type, size, energy use, and performance of the major energy using systems and their interaction with the building envelope, the climate and weather influences, usage patterns, and related environmental concerns;
+(b) appropriate energy and water conservation maintenance and operating procedures;
+(c) recommendations for the acquisition and installation of energy conservation measures, including solar and other renewable energy and water conservation measures; and
+(d) a strategy to implement the recommendations.
+Sec. 103. The term "cost-effective" means providing a payback period of less than 10 years, as determined by using the methods and procedures developed pursuant to 42 U.S.C. 8254 and 10 CFR 436.
+Sec. 104. The term "demand side management" refers to utility-sponsored programs that increase energy efficiency and water conservation or the management of demand. The term includes load management techniques.
+Sec. 105. The term "energy savings performance contracts" means contracts that provide for the performance of services for the audit, design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair, of an identified energy or water conservation measure or series of measures at one or more locations.
+Sec. 106. The term "agency" means an executive agency as defined in 5 U.S.C. 105. For the purpose of this order, military departments, as defined in 5 U.S.C. 102, are covered under the auspices of the Department of Defense.
+Sec. 107. The term "Federal building" means any individual building, structure, or part thereof, including the associated energy or water-consuming support systems, which is constructed, renovated, or purchased in whole or in part for use by the Federal Government and which consumes energy or water. In any provision of this order, the term "Federal building" shall also include any building leased in whole or in part for use by the Federal Government where the term of the lease exceeds 5 years and the lease does not prohibit implementation of the provision in question.
+Sec. 108. The term "Federal facility" means any building or collection of buildings, grounds, or structure, as well as any fixture or part thereof, which is owned by the United States or any Federal agency or which is held by the United States or any Federal agency under a lease-acquisition agreement under which the United States or a Federal agency will receive fee simple title under the terms of such agreement without further negotiation. In any provision of this order, the term "Federal facility" shall also include any building leased in whole or in part for use by the Federal Government where the term of the lease exceeds 5 years and the lease does not prohibit implementation of the provision in question.
+Sec. 109. The term "franchising" means that an agency would provide the services of its employees to other agencies on a reimbursable basis.
+Sec. 110. The term "gainsharing" refers to incentive systems that allocate some portion of savings resulting from gains in productivity to the workers who produce those gains.
+Sec. 111. The term "industrial facilities" means any fixed equipment, building, or complex for the production of goods that uses large amounts of capital equipment in connection with, or as part of, any process or system, and within which the majority of energy use is not devoted to the heating, cooling, lighting, ventilation, or to service the hot water energy load requirements of the building.
+Sec. 112. The term "life cycle cost" refers to life cycle cost calculated pursuant to the methodology established by 10 CFR 436.11.
+Sec. 113. The term "prioritization survey" means a rapid assessment that will be used by an agency to identify those facilities with the highest priority projects based on the degree of cost effectiveness and to schedule comprehensive facility audits prior to project implementation. The prioritization survey shall include information such as the following:
+(a) the type, size, energy and water use levels of the major energy and water using systems in place at the facility; and
+(b) the need, if any, for acquisition and installation of cost-effective energy and water conservation measures, including solar and other renewable energy resource measures.
+(b)
+Comprehensive Facility Audits.
+ Each agency shall develop and begin implementing a 10-year plan to conduct or obtain comprehensive facility audits, based on prioritization surveys performed under section 302(a) of this order.
+(1) Implementation of the plan shall ensure that comprehensive facility audits of approximately 10 percent of the agency's facilities are completed each year. Agencies responsible for managing less than 100 Federal facilities shall plan and execute approximately 10 comprehensive facility audits per year until all facilities have been audited.
+(2) Comprehensive audits of facilities performed within the last 3 years may be considered current for the purposes of implementation.
+(3) "No-cost" audits, such as those outlined in section 501(c) of this order, shall be utilized to the extent practicable.
+(c)
+Exempt Facilities.
+ Because the mission within facilities exempt from the energy and water reduction requirements under the Act may not allow energy efficiency and water conservation in certain operations, actions shall be taken to reduce all other energy and water waste using the procedures described in the Act and this order. Each agency shall develop and implement a plan to improve energy and water efficiency in such exempt facilities. The prioritization surveys are intended to allow agencies to refine their designation of facilities as "exempt" or "industrial," so that only individual buildings in which industrial or energy-intensive operations are conducted remain designated as "exempt" or "industrial." Within 21 months of the date of this order, each agency shall report to FEMP and to the Office of Management and Budget ("OMB") the redesignations that the agency is making as a result of the prioritization surveys. Agencies may seek exemptions for their facilities pursuant to the Energy Policy and Conservation Act, as amended.
+(d)
+Leased Facilities.
+ Agencies shall conduct surveys and audits of leased facilities to the extent practicable and to the extent that the recommendations of such surveys and audits could be implemented under the terms of the lease.
+Sec. 303.
+Implementation of Energy Efficiency and Water Conservation Projects.
+ (a)
+Implementation of New Audit Recommendations.
+ Within 1 year of the date of this order, agencies shall identify, based on preliminary recommendations from the prioritization surveys required under section 302 of this order, high priority facilities to audit and shall complete the first 10 percent of the required comprehensive facility audits. Within 180 days of the completion of the comprehensive facility audit of each facility, agencies shall begin implementing cost-effective recommendations for installation of energy efficiency, water conservation, and renewable energy technologies for that facility.
+(b)
+Implementation of Existing Audits.
+ Within 180 days of the date of this order, agencies shall begin to implement cost-effective recommendations from comprehensive audits of facilities performed within the past 3 years, for installation of energy efficiency, water conservation, and renewable energy technologies.
+Part 6—Waivers
+Sec. 601. Waivers. Each agency may determine whether certain requirements in this order are inconsistent with the mission of the agency and seek a waiver of the provision from the Secretary of Energy. Any waivers authorized by the Secretary of Energy shall be included in the annual report on Federal energy management required under the Act.
+Part 7—Revocation, Limitation, and Implementation
+Sec. 701. Executive Order No. 12759, of April 17, 1991, is hereby revoked, except that sections 3, 9, and 10 of that order shall remain effective and shall not be revoked.
+Sec. 702. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not create, any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 703. This order shall be effective immediately.
+William J. Clinton
+The White House,
+March 8, 1994.
+[Filed with the Office of the Federal Register, 11:02 a.m., March 9, 1994]

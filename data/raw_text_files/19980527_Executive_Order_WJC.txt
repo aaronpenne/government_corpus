@@ -1,0 +1,381 @@
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including chapter 47 of title 10, United States Code (Uniform Code of Military Justice, 10 U.S.C. 801-946), in order to prescribe amendments to the Manual for Courts-Martial, United States, prescribed by Executive Order No. 12473, as amended by Executive Order No. 12484, Executive Order No. 12550, Executive Order No. 12586, Executive Order No. 12708, Executive Order No. 12767, Executive Order No. 12888, Executive Order No. 12936, and Executive Order No. 12960, it is hereby ordered as follows:
+Section 1. Part II of the Manual for Courts-Martial, United States, is amended as follows:
+a. R.C.M. 305(g) through 305(k) are amended to read as follows:
+"(g) Who may direct release from confinement. Any commander of a prisoner, an officer appointed under regulations of the Secretary concerned to conduct the review under subsections (i) and/or (j) of this rule or, once charges have been referred, a military judge detailed to the court-martial to which the charges against the accused have been referred, may direct release from pretrial confinement. For the purposes of this subsection, "any commander" includes the immediate or higher commander of the prisoner and the commander of the installation on which the confinement facility is located.
+(h) Notification and action by commander.
+(1) Report. Unless the commander of the prisoner ordered the pretrial confinement, the commissioned, warrant, noncommissioned, or petty officer into whose charge the prisoner was committed shall, within 24 hours after that commitment, cause a report to be made to the commander that shall contain the name of the prisoner, the offenses charged against the prisoner, and the name of the person who ordered or authorized confinement.
+(2) Action by commander.
+(A) Decision. Not later than 72 hours after the commander's ordering of a prisoner into pretrial confinement or, after receipt of a report that a member of the commander's unit or organization has been confined, whichever situation is applicable, the commander shall decide whether pretrial confinement will continue. A commander's compliance with this subsection may also satisfy the 48-hour probable cause determination of subsection R.C.M. 305(i)(1) below, provided the commander is a neutral and detached officer and acts within 48 hours of the imposition of confinement under military control. Nothing in subsections R.C.M. 305(d), R.C.M. 305(i)(1), or this subsection prevents a neutral and detached commander from completing the 48-hour probable cause determination and the 72-hour commander's decision immediately after an accused is ordered into pretrial confinement.
+(B) Requirements for confinement. The commander shall direct the prisoner's release from pretrial confinement unless the commander believes upon probable cause, that is, upon reasonable grounds, that:
+(i) An offense triable by a court-martial has been committed;
+(ii) The prisoner committed it; and
+(iii) Confinement is necessary because it is foreseeable that:
+(a) The prisoner will not appear at trial, pretrial hearing, or investigation, or
+(b) The prisoner will engage in serious criminal misconduct; and
+(iv) Less severe forms of restraint are inadequate.
+Serious criminal misconduct includes intimidation of witnesses or other obstruction of justice, serious injury to others, or other offenses that pose a serious threat to the safety of the community or to the effectiveness, morale, discipline, readiness, or safety of the command, or to the national security of the United States. As used in this rule, "national security" means the national defense and foreign relations of the United States and specifically includes: military or defense advantage over any foreign nation or group of nations; a favorable foreign relations position; or a defense posture capable of successfully resisting hostile or destructive action from within or without, overt or covert.
+(C) 72-hour memorandum. If continued pretrial confinement is approved, the commander shall prepare a written memorandum that states the reasons for the conclusion that the requirements for confinement in subsection (h)(2)(B) of this rule have been met. This memorandum may include hearsay and may incorporate by reference other documents, such as witness statements, investigative reports, or official records. This memorandum shall be forwarded to the 7-day reviewing officer under subsection (i)(2) of this rule. If such a memorandum was prepared by the commander before ordering confinement, a second memorandum need not be prepared; however, additional information may be added to the memorandum at any time.
+(i) Procedures for review of pretrial confinement.
+(1) 48-hour probable cause determination. Review of the adequacy of probable cause to continue pretrial confinement shall be made by a neutral and detached officer within 48 hours of imposition of confinement under military control. If the prisoner is apprehended by civilian authorities and remains in civilian custody at the request of military authorities, reasonable efforts will be made to bring the prisoner under military control in a timely fashion.
+(2) 7-day review of pretrial confinement. Within 7 days of the imposition of confinement, a neutral and detached officer appointed in accordance with regulations prescribed by the Secretary concerned shall review the probable cause
+determination and necessity for continued pretrial confinement. In calculating the number of days of confinement for purposes of this rule, the initial date of confinement under military control shall count as one day and the date of the review shall also count as one day.
+(A) Nature of the 7-day review.
+(i) Matters considered. The review under this subsection shall include a review of the memorandum submitted by the prisoner's commander under subsection (h)(2)(C) of this rule. Additional written matters may be considered, including any submitted by the accused. The prisoner and the prisoner's counsel, if any, shall be allowed to appear before the 7-day reviewing officer and make a statement, if practicable. A representative of the command may also appear before the reviewing officer to make a statement.
+(ii) Rules of evidence. Except for Mil. R. Evid., Section V (Privileges) and Mil. R. Evid. 302 and 305, the Military Rules of Evidence shall not apply to the matters considered.
+(iii) Standard of proof. The requirements for confinement under subsection (h)(2)(B) of this rule must be proved by a preponderance of the evidence.
+(B) Extension of time limit. The 7-day reviewing officer may, for good cause, extend the time limit for completion of the review to 10 days after the imposition of pretrial confinement.
+(C) Action by 7-day reviewing officer. Upon completion of review, the reviewing officer shall approve continued confinement or order immediate release.
+(D) Memorandum. The 7-day reviewing officer's conclusions, including the factual findings on which they are based, shall be set forth in a written memorandum. A copy of the memorandum and of all documents considered by the 7-day reviewing officer shall be maintained in accordance with regulations prescribed by the Secretary concerned and provided to the accused or the Government on request.
+(E) Reconsideration of approval of continued confinement. The 7-day reviewing officer shall upon request, and after notice to the parties, reconsider the decision to confine the prisoner based upon any significant information not previously considered.
+(j) Review by military judge. Once the charges for which the accused has been confined are referred to trial, the military judge shall review the propriety of the pretrial confinement upon motion for appropriate relief.
+(1) Release. The military judge shall order release from pretrial confinement only if:
+(A) The 7-day reviewing officer's decision was an abuse of discretion, and there is not sufficient information presented to the military judge justifying continuation of pretrial confinement under subsection (h)(2)(B) of this rule;
+(B) Information not presented to the 7-day reviewing officer establishes that the prisoner should be released under subsection (h)(2)(B) of this rule; or
+(C) The provisions of subsection (i)(1) or (2) of this rule have not been complied with and information presented to the military judge does not establish sufficient grounds for continued confinement under subsection (h)(2)(B) of this rule.
+(2) Credit. The military judge shall order administrative credit under subsection (k) of this rule for any pretrial confinement served as a result of an abuse of discretion or failure to comply with the provisions of subsections (f), (h), or (i) of this rule.
+(k) Remedy. The remedy for noncompliance with subsections (f), (h), (i), or (j) of this rule shall be an administrative credit against the sentence adjudged for any confinement served as the result of such noncompliance. Such credit shall be computed at the rate of 1 day credit for each day of confinement served as a result of such noncompliance. The military judge may order additional credit for each day of pretrial confinement that involves an abuse of discretion or unusually harsh circumstances. This credit is to be applied in addition to any other credit to which the accused may be entitled as a result of pretrial confinement served. This credit shall be applied first against any confinement adjudged. If no confinement is adjudged, or if the confinement adjudged is insufficient to offset all the credit to which the accused is entitled, the credit shall be applied against adjudged hard labor without confinement, restriction, fine, and forfeiture of pay, in that order, using the conversion formula under R.C.M. 1003(b)(6) and (7). For purposes of this subsection, 1 day of confinement shall be equal to 1 day of total forfeitures or a like amount of fine. The credit shall not be applied against any other form of punishment."
+b. R.C.M. 405(e) is amended to read as follows:
+"(e) Scope of investigation. The investigating officer shall inquire into the truth and form of the charges, and such other matters as may be necessary to make a recommendation as to the disposition of the charges. If evidence adduced during the investigation indicates that the accused committed an uncharged offense, the investigating officer may investigate the subject matter of such offense and make a recommendation as to its disposition, without the accused first having been charged with the offense. The accused's rights under subsection (f) are the same with regard to investigation of both charged and uncharged offenses."
+c. R.C.M. 706(c)(2)(D) is amended to read as follows:
+"(D) Is the accused presently suffering from a mental disease or defect rendering the accused unable to understand the nature of the proceedings against the accused or to conduct or cooperate intelligently in the defense of the case?"
+d. R.C.M. 707(b)(3) is amended by adding subsection (E) which reads as follows:
+"(E) Commitment of the incompetent accused. If the accused is committed to the custody of the Attorney General for hospitalization as provided in R.C.M. 909(f), all periods of such commitment shall be excluded when determining whether the period in subsection (a) of this rule has run. If, at the end of the period of commitment, the accused is returned to the custody of the general court-martial convening authority, a new 120-day time period under this rule shall begin on the date of such return to custody."
+e. R.C.M. 707(c) is amended to read as follows:
+"(c) Excludable delay. All periods of time during which appellate courts have issued stays in the proceedings, or the accused is hospitalized due to incompetence, or is otherwise in the custody of the Attorney General, shall be excluded when determining whether the period in subsection (a) of this rule has run. All other pretrial delays approved by a military judge or the convening authority shall be similarly excluded."
+f. R.C.M. 809(b)(1) is amended by deleting the last sentence, which reads:
+"In such cases, the regular proceedings shall be suspended while the contempt is disposed of."
+g. R.C.M. 809(c) is amended to read as follows:
+"(c) Procedure. The military judge shall in all cases determine whether to punish for contempt and, if so, what the punishment shall be. The military judge shall also determine when during the court-martial the contempt proceedings shall be conducted; however, if the court-martial is composed of members, the military judge shall conduct the contempt proceedings outside the members' presence. The military judge may punish summarily under subsection (b)(1) only if the military judge recites the facts for the record and states that they were directly witnessed by the military judge in the actual presence of the court-martial. Otherwise, the provisions of subsection (b)(2) shall apply."
+h. R.C.M. 908(a) is amended to read as follows:
+"(a) In general. In a trial by a court-martial over which a military judge presides and in which a punitive discharge may be adjudged, the United States may appeal an order or ruling that terminates the proceedings with respect to a charge or specification, or excludes evidence that is substantial proof of a fact material in the proceedings, or directs the disclosure of classified information, or that imposes sanctions for nondisclosure of classified information. The United States may also appeal a refusal by the military judge to issue a protective order sought by the United States to prevent the disclosure of classified information or to enforce such an order that has previously been issued by the appropriate authority. However, the United States may not appeal an order or ruling that is, or amounts to, a finding of not guilty with respect to the charge or specification."
+i. R.C.M. 909 is amended to read as follows:
+"(a) In general. No person may be brought to trial by court-martial if that person is presently suffering from a mental disease or defect rendering him or her mentally incompetent to the extent that he or she is unable to understand the nature of the proceedings against them or to conduct or cooperate intelligently in the defense of the case.
+(b) Presumption of capacity. A person is presumed to have the capacity to stand trial unless the contrary is established.
+(c) Determination before referral. If an inquiry pursuant to R.C.M. 706 conducted before referral concludes that an accused is suffering from a mental disease or defect that renders him or her mentally incompetent to stand trial, the convening authority before whom the charges are pending for disposition may disagree with the conclusion and take any action authorized under R.C.M. 401, including referral of the charges to trial. If that convening authority concurs with the conclusion, he or she shall forward the charges to the general court-martial convening authority. If, upon receipt of the charges, the general court-martial convening authority similarly concurs, then he or she shall commit the accused to the custody of the Attorney General. If the general court-martial convening authority does not concur, that authority may take any action that he or she deems appropriate in accordance with R.C.M. 407, including referral of the charges to trial.
+(d) Determination after referral. After referral, the military judge may conduct a hearing to determine the mental capacity of the accused, either sua sponte or upon request of either party. If an inquiry pursuant to R.C.M. 706 conducted before or after referral concludes that an accused is suffering from a mental disease or defect that renders him or her mentally incompetent to stand trial, the military judge shall conduct a hearing to determine the mental capacity of the accused. Any such hearing shall be conducted in accordance with paragraph (e) of this rule.
+(e) Incompetence determination hearing.
+(1) Nature of issue. The mental capacity of the accused is an interlocutory question of fact.
+(2) Standard. Trial may proceed unless it is established by a preponderance of the evidence that the accused is presently suffering from a mental disease or defect rendering him or her mentally incompetent to the extent that he or she is unable to understand the nature of the proceedings or to conduct or cooperate intelligently in the defense of the case. In making this determination, the military judge is not bound by the rules of evidence except with respect to privileges.
+(3) If the military judge finds the accused is incompetent to stand trial, the judge shall report this finding to the general court-martial convening authority, who shall commit the accused to the custody of the Attorney General.
+(f) Hospitalization of the accused. An accused who is found incompetent to stand trial under this rule shall be hospitalized by the Attorney General as provided in section 4241(d) of title 18, United States Code. If notified that the accused has recovered to such an extent that he or she is able to understand the nature of the proceedings and to conduct or cooperate intelligently in the defense of the case, then the general court-martial convening authority shall promptly take custody of the accused. If, at the end of the period of hospitalization, the accused's mental condition has not so improved, action shall be taken in accordance with section 4246 of title 18, United States Code.
+(g) Excludable delay. All periods of commitment shall be excluded as provided by R.C.M. 707(c). The 120-day time period under R.C.M. 707 shall begin anew on the date the general court-martial convening authority takes custody of the accused at the end of any period of commitment."
+j. R.C.M. 916(b) is amended to read as follows:
+"(b) Burden of proof. Except for the defense of lack of mental responsibility and the defense of mistake of fact as to age as described in Part IV, para. 45c.(2) in a prosecution for carnal knowledge, the prosecution shall have the burden of proving beyond a reasonable doubt that the defense did not exist. The accused has the burden of proving the defense of lack of mental responsibility by clear and convincing evidence, and has the burden of proving mistake of fact as to age in a carnal knowledge prosecution by a preponderance of the evidence."
+k. R.C.M. 916(j) is amended to read as follows:
+"(j) Ignorance or mistake of fact.
+(1) Generally. Except as otherwise provided in this subsection, it is a defense to an offense that the accused held, as a result of ignorance or mistake, an incorrect belief of the true circumstances such that, if the circumstances were as the accused believed them, the accused would not be guilty of the offense. If the ignorance or mistake goes to an element requiring premeditation, specific intent, willfulness, or knowledge of a particular fact, the ignorance or mistake need only have existed in the mind of the accused. If the ignorance or mistake goes to any other element requiring only general intent or knowledge, the ignorance or mistake must have existed in the mind of the accused and must have been reasonable under all the circumstances. However, if the accused's knowledge or intent is immaterial as to an element, then ignorance or mistake is not a defense.
+(2) Carnal knowledge. It is a defense to a prosecution for carnal knowledge that, at the time of the sexual intercourse, the person with whom the accused had sexual intercourse was at least 12 years of age, and the accused reasonably believed the person was at least 16 years of age. The accused must prove this defense by a preponderance of the evidence."
+l. R.C.M. 920(e)(5)(D) is amended to read as follows:
+"(D) The burden of proof to establish the guilt of the accused is upon the Government. [When the issue of lack of mental responsibility is raised, add: The burden of proving the defense of lack of mental responsibility by clear and convincing evidence is upon the accused. When the issue of mistake of fact as to age in a carnal knowledge prosecution is raised, add: The burden of proving the defense of mistake of fact as to age in carnal knowledge by a preponderance of the evidence is upon the accused.]"
+m. R.C.M. 1005(e) is amended to read as follows:
+"(e) Required Instructions. Instructions on sentence shall include:
+(1) A statement of the maximum authorized punishment that may be adjudged and of the mandatory minimum punishment, if any;
+(2) A statement of the effect any sentence announced including a punitive discharge and confinement, or confinement in excess of six months, will have on the accused's entitlement to pay and allowances;
+(3) A statement of the procedures for deliberation and voting on the sentence set out in R.C.M. 1006;
+(4) A statement informing the members that they are solely responsible for selecting an appropriate sentence and may not rely on the possibility of any mitigating action by the convening or higher authority; and
+(5) A statement that the members should consider all matters in extenuation, mitigation, and aggravation, whether introduced before or after findings, and matters introduced under R.C.M. 1001(b) (1), (2), (3), and (5)."
+n. The heading for R.C.M. 1101 is amended as follows:
+"Rule 1101. Report of result of trial; post-trial restraint; deferment of confinement, forfeitures and reduction in grade; waiver of Article 58b forfeitures"
+o. R.C.M. 1101(c) is amended as follows:
+"(c) Deferment of confinement, forfeitures or reduction in grade.
+(1) In general. Deferment of a sentence to confinement, forfeitures, or reduction in grade is a postponement of the running of a sentence.
+(2) Who may defer. The convening authority or, if the accused is no longer in the convening authority's jurisdiction, the officer exercising general court-martial jurisdiction over the command to which the accused is assigned, may, upon written application of the accused at any time after the adjournment of the court-martial, defer the accused's service of a sentence to confinement, forfeitures, or reduction in grade that has not been ordered executed.
+(3) Action on deferment request. The authority acting on the deferment request may, in that authority's discretion, defer service of a sentence to confinement, forfeitures, or reduction in grade. The accused shall have the burden of showing that the interests of the accused and the community in deferral outweigh the community's interest in imposition of the punishment on its effective date. Factors that the authority acting on a deferment request may consider in determining whether to grant the deferment request include, where applicable: the probability of the accused's flight; the probability of the accused's commission of other offenses, intimidation of witnesses, or interference with the administration of justice; the nature of the offenses (including the effect on the victim) of which the accused was convicted; the sentence adjudged; the command's immediate need for the accused; the effect of deferment on good order and discipline in the command; the accused's character, mental condition, family situation, and service record. The decision of the authority acting on the deferment request shall be subject to judicial review only for abuse of discretion. The action of the authority acting on the deferment request shall be in writing and a copy shall be provided to the accused.
+(4) Orders. The action granting deferment shall be reported in the convening authority's action under R.C.M. 1107(f)(4)(E) and shall include the date of the action on the request when it occurs prior to or concurrently with the action. Action granting deferment after the convening authority's action under R.C.M. 1107 shall be reported in orders under R.C.M. 1114 and included in the record of trial.
+(5) Restraint when deferment is granted. When deferment of confinement is granted, no form of restraint or other limitation on the accused's liberty may be ordered as a substitute form of punishment. An accused may, however, be restricted to specified limits or conditions may be placed on the accused's liberty during the period of deferment for any other proper reason, including a ground for restraint under R.C.M. 304.
+(6) End of deferment. Deferment of a sentence to confinement, forfeitures, or reduction in grade ends when:
+(A) The convening authority takes action under R.C.M. 1107, unless the convening authority specifies in the action that service of confinement after the action is deferred;
+(B) The confinement, forfeitures, or reduction in grade are suspended;
+(C) The deferment expires by its own terms; or
+(D) The deferment is otherwise rescinded in accordance with subsection (c)(7) of this rule. Deferment of confinement may not continue after the conviction is final under R.C.M. 1209.
+(7) Rescission of deferment.
+(A) Who may rescind. The authority who granted the deferment or, if the accused is no longer within that authority's jurisdiction, the officer exercising general court-martial jurisdiction over the command to which the accused is assigned, may rescind the deferment.
+(B) Action. Deferment of confinement, forfeitures, or reduction in grade may be rescinded when additional information is presented to a proper authority which, when considered with all other information in the case, that authority finds, in that authority's discretion, is grounds for denial of deferment under subsection (c)(3) of this rule. The accused shall promptly be informed of the basis for the rescission and of the right to submit written matters on the accused's behalf and to request that the rescission be reconsidered. However, the accused may be required to serve the sentence to confinement, forfeitures, or reduction in grade pending this action.
+(C) Execution. When deferment of confinement is rescinded after the convening authority's action under R.C.M. 1107, the confinement may be ordered executed. However, no such order to rescind a deferment of confinement may be issued within 7 days of notice of the rescission of a deferment of confinement to the accused under subsection (c)(7)(B) of this rule, to afford the accused an opportunity to respond. The authority rescinding the deferment may extend this period for good cause shown. The accused shall be credited with any confinement actually served during this period.
+(D) Orders. Rescission of a deferment before or concurrently with the initial action in the case shall be reported in the action under R.C.M. 1107(f)(4)(E), which action shall include the dates of the granting of the deferment and the rescission. Rescission of a deferment of confinement after the convening authority's action shall be reported in supplementary orders in accordance with R.C.M. 1114 and shall state whether the approved period of confinement is to be executed or whether all or part of it is to be suspended."
+p. R.C.M. 101 is amended by adding the following new subparagraph (d):
+"(d) Waiving forfeitures resulting from a sentence to confinement to provide for dependent support.
+(1) With respect to forfeiture of pay and allowances resulting only by operation of law and not adjudged by the court, the convening authority may waive, for a period not to exceed six months, all or part of the forfeitures for the purpose of providing support to the accused's dependent(s). The convening authority may waive and direct payment of any such forfeitures when they become effective by operation of Article 57(a).
+(2) Factors that may be considered by the convening authority in determining the amount of forfeitures, if any, to be waived include, but are not limited to, the length of the accused's confinement, the number and age(s) of the accused's family members, whether the accused requested waiver, any debts owed by the accused, the ability of the accused's family members to find employment, and the availability of transitional compensation for abused dependents permitted under 10 U.S.C. 1059.
+(3) For the purposes of this Rule, a "dependent" means any person qualifying as a "dependent" under 37 U.S.C. 401."
+q. The following new rule is added after R.C.M. 1102:
+"Rule 1102A. Post-trial hearing for person found not guilty only by reason of lack of mental responsibility
+(a) In general. The military judge shall conduct a hearing not later than forty days following the finding that an accused is not guilty only by reason of a lack of mental responsibility.
+(b) Psychiatric or psychological examination and report. Prior to the hearing, the military judge or convening authority shall order a psychiatric or psychological examination of the accused, with the resulting psychiatric or psychological report transmitted to the military judge for use in the post-trial hearing.
+(c) Post-trial hearing.
+(1) The accused shall be represented by defense counsel and shall have the opportunity to testify, present evidence, call witnesses on his or her behalf, and to confront and cross-examine witnesses who appear at the hearing.
+(2) The military judge is not bound by the rules of evidence except with respect to privileges.
+(3) An accused found not guilty only by reason of a lack of mental responsibility of an offense involving bodily injury to another, or serious damage to the property of another, or involving a substantial risk of such injury or damage, has the burden of proving by clear and convincing evidence that his or her release would not create a substantial risk of bodily injury to another person or serious damage to property of another due to a present mental disease or defect. With respect to any other offense, the accused has the burden of such proof by a preponderance of the evidence.
+(4) If, after the hearing, the military judge finds the accused has satisfied the standard specified in subsection (3) of this section, the military judge shall inform the general court-martial convening authority of this result and the accused shall be released. If, however, the military judge finds after the hearing that the accused has not satisfied the standard specified in subsection (3) of this section, then the military judge shall inform the general court-martial convening authority of this result and that authority may commit the accused to the custody of the Attorney General."
+r. R.C.M. 1105(b) is amended to read as follows:
+"(b) Matters that may be submitted.
+(1) The accused may submit to the convening authority any matters that may reasonably tend to affect the convening authority's decision whether to disapprove any findings of guilt or to approve the sentence. The convening authority is only required to consider written submissions.
+(2) Submissions are not subject to the Military Rules of Evidence and may include:
+(A) Allegations of errors affecting the legality of the findings or sentence;
+(B) Portions or summaries of the record and copies of documentary evidence offered or introduced at trial;
+(C) Matters in mitigation that were not available for consideration at the court-martial; and
+(D) Clemency recommendations by any member, the military judge, or any other person. The defense may ask any person for such a recommendation."
+s. R.C.M. 1107(b)(4) is amended to read as follows:
+"(4) When proceedings resulted in a finding of not guilty or not guilty only by reason of lack of mental responsibility, or there was a ruling amounting to a finding of not guilty. The convening authority shall not take action disapproving a finding of not guilty, a finding of not guilty only by reason of lack of mental responsibility, or a ruling amounting to a finding of not guilty. When an accused is found not guilty only by reason of lack of mental responsibility, the convening authority, however, shall commit the accused to a suitable facility pending a hearing and disposition in accordance with R.C.M. 1102A."
+t. The subheading for R.C.M. 1107(d)(3) is amended to read as follows:
+"(3) Deferring service of a sentence to confinement."
+u. R.C.M. 1107(d)(3)(A) is amended to read as follows:
+"(A) In a case in which a court-martial sentences an accused referred to in subsection (B), below, to confinement, the convening authority may defer service of a sentence to confinement by a court-martial, without the consent of the accused, until after the accused has been permanently released to the armed forces by a state or foreign country."
+v. R.C.M. 1109 is amended to read as follows:
+"Rule 1109. Vacation of suspension of sentence
+(a) In general. Suspension of execution of the sentence of a court-martial may be vacated for violation of the conditions of the suspension as provided in this rule.
+(b) Timeliness.
+(1) Violation of conditions. Vacation shall be based on a violation of the conditions of suspension that occurs within the period of suspension.
+(2) Vacation proceedings. Vacation proceedings under this rule shall be completed within a reasonable time.
+(3) Order vacating the suspension. The order vacating the suspension shall be issued before the expiration of the period of suspension.
+(4) Interruptions to the period of suspension. Unauthorized absence of the probationer or the commencement of proceedings under this rule to vacate suspension interrupts the running of the period of suspension.
+(c) Confinement of probationer pending vacation proceedings.
+(1) In general. A probationer under a suspended sentence to confinement may be confined pending action under subsection (d)(2) of this rule, in accordance with the procedures in this subsection.
+(2) Who may order confinement. Any person who may order pretrial restraint under R.C.M. 304(b) may order confinement of a probationer under a suspended sentence to confinement.
+(3) Basis for confinement. A probationer under a suspended sentence to confinement may be ordered into confinement upon probable cause to believe the probationer violated any conditions of the suspension.
+(4) Review of confinement. Unless proceedings under subsection (d)(1), (e), (f), or (g) of this rule are completed within 7 days of imposition of confinement of the probationer (not including any delays requested by probationer), a preliminary hearing shall be conducted by a neutral and detached officer appointed in accordance with regulations of the Secretary concerned.
+(A) Rights of accused. Before the preliminary hearing, the accused shall be notified in writing of:
+(i) The time, place, and purpose of the hearing, including the alleged violation(s) of the conditions of suspension;
+(ii) The right to be present at the hearing;
+(iii) The right to be represented at the hearing by civilian counsel provided by the probationer or, upon request, by military counsel detailed for this purpose; and
+(iv) The opportunity to be heard, to present witnesses who are reasonably available and other evidence, and the right to confront and cross-examine adverse witnesses unless the hearing officer determines that this would subject these witnesses to risk or harm. For purposes of this subsection, a witness is not reasonably available if the witness requires reimbursement by the United States for cost incurred in appearing, cannot appear without unduly delaying the proceedings or, if a military witness, cannot be excused from other important duties.
+(B) Rules of evidence. Except for Mil. R. Evid. Section V (Privileges) and Mil. R. Evid. 302 and 305, the Military Rules of Evidence shall not apply to matters considered at the preliminary hearing under this rule.
+(C) Decision. The hearing officer shall determine whether there is probable cause to believe that the probationer violated the conditions of the probationer's suspension. If the hearing officer determines that probable cause is lacking, the hearing officer shall issue a written order directing that the probationer be released from confinement. If the hearing officer determines that there is probable cause to believe that the probationer violated the conditions of suspension, the hearing officer shall set forth that decision in a written memorandum, detailing therein the evidence relied upon and reasons for making the decision. The hearing officer shall forward the original memorandum or release order to the probationer's commander and forward a copy to the probationer and the officer in charge of the confinement facility.
+(d) Vacation of suspended general court-martial sentence.
+(1) Action by officer having special court-martial jurisdiction over probationer.
+(A) In general. Before vacation of the suspension of any general court-martial sentence, the officer having special court-martial jurisdiction over the probationer shall personally hold a hearing on the alleged violation of the conditions of suspension. If there is no officer having special court-martial jurisdiction over the probationer who is subordinate to the officer having general court-martial jurisdiction over the probationer, the officer exercising general court-martial jurisdiction over the probationer shall personally hold a hearing under subsection (d)(1) of this rule. In such cases, subsection
+(d)(1)(D) of this rule shall not apply.
+(B) Notice to probationer. Before the hearing, the officer conducting the hearing shall cause the probationer to be notified in writing of:
+(i) The time, place, and purpose of the hearing;
+(ii) The right to be present at the hearing;
+(iii) The alleged violation(s) of the conditions of suspension and the evidence expected to be relied on;
+(iv) The right to be represented at the hearing by civilian counsel provided by the probationer or, upon request, by military counsel detailed for this purpose; and
+(v) The opportunity to be heard, to present witnesses and other evidence, and the right to confront and cross-examine adverse witnesses, unless the hearing officer determines that there is good cause for not allowing confrontation and cross-examination.
+(C) Hearing. The procedure for the vacation hearing shall follow that prescribed in R.C.M. 405(g), (h)(1), and (i).
+(D) Record and recommendation. The officer who conducts the vacation proceeding shall make a summarized record of the proceeding and forward the record and that officer's written recommendation concerning vacation to the officer exercising general court-martial jurisdiction over the probationer.
+(E) Release from confinement. If the special court-martial convening authority finds there is not probable cause to believe that the probationer violated the conditions of the suspension, the special court-martial convening authority shall order the release of the probationer from confinement ordered under subsection (c) of this rule. The special court-martial convening authority shall, in any event, forward the record and recommendation under subsection (d)(1)(D) of this rule.
+(2) Action by officer exercising general court-martial jurisdiction over probationer.
+(A) In general. The officer exercising general court-martial jurisdiction over the probationer shall review the record produced by and the recommendation of the officer exercising special court-martial jurisdiction over the probationer, decide whether the probationer violated a condition of suspension, and, if so, decide whether to vacate the suspended sentence. If the officer exercising general court-martial jurisdiction decides to vacate the suspended sentence, that officer shall prepare a written statement of the evidence relied on and the reasons for vacating the suspended sentence.
+(B) Execution. Any unexecuted part of a suspended sentence ordered vacated under this subsection shall, subject to R.C.M. 1113(c), be ordered executed.
+(e) Vacation of a suspended special court-martial sentence wherein a bad-conduct discharge was not adjudged.
+(1) In general. Before vacating the suspension of a special court-martial punishment that does not include a bad-conduct discharge, the special court-martial convening authority for the command in which the probationer is serving or assigned shall cause a hearing to be held on the alleged violation(s) of the conditions of suspension.
+(2) Notice to probationer. The person conducting the hearing shall notify the probationer, in writing, before the hearing of the rights specified in subsection (d)(1)(B) of this rule.
+(3) Hearing. The procedure for the vacation hearing shall follow that prescribed in R.C.M. 405(g), (h)(1), and (i).
+(4) Authority to vacate suspension. The special court-martial convening authority for the command in which the probationer is serving or assigned shall have the authority to vacate any punishment that the officer has the authority to order executed.
+(5) Record and recommendation. If the hearing is not held by the commander with authority to vacate the suspension, the person who conducts the hearing shall make a summarized record of the hearing and forward the record and that officer's written recommendation concerning vacation to the commander with authority to vacate the suspension.
+(6) Decision. The special court-martial convening authority shall review the record produced by and the recommendation of the person who conducted the vacation proceeding, decide whether the probationer violated a condition of suspension, and, if so, decide whether to vacate the suspended sentence. If the officer exercising jurisdiction decides to vacate the suspended sentence, that officer shall prepare a written statement of the evidence relied on and the reasons for vacating the suspended sentence.
+(7) Execution. Any unexecuted part of a suspended sentence ordered vacated under this subsection shall be ordered executed.
+(f) Vacation of a suspended special court-martial sentence that includes a bad-conduct discharge.
+(1) The procedure for the vacation of a suspended approved bad-conduct discharge shall follow that set forth in subsection (d) of this rule.
+(2) The procedure for the vacation of the suspension of any lesser special court-martial punishment shall follow that set forth in subsection (e) of this rule.
+(g) Vacation of a suspended summary court-martial sentence.
+(1) Before vacation of the suspension of a summary court-martial sentence, the summary court-martial convening authority for the command in which the probationer is serving or assigned shall cause a hearing to be held on the alleged violation(s) of the conditions of suspension.
+(2) Notice to probationer. The person conducting the hearing shall notify the probationer before the hearing of the rights specified in subsections (d)(1)(B)(i), (ii), (iii), and (v) of this rule.
+(3) Hearing. The procedure for the vacation hearing shall follow that prescribed in R.C.M. 405(g), (h)(1), and (i).
+(4) Authority to vacate suspension. The summary court-martial convening authority for the command in which the probationer is serving or assigned shall have the authority to vacate any punishment that the officer had the authority to order executed.
+(5) Record and recommendation. If the hearing is not held by the commander with authority to vacate the suspension, the person who conducts the vacation proceeding shall make a summarized record of the proceeding and forward the record and that officer's written recommendation concerning vacation to the commander with authority to vacate the suspension.
+(6) Decision. A commander with authority to vacate the suspension shall review the record produced by and the recommendation of the person who conducted the vacation proceeding, decide whether the probationer violated a condition of suspension, and, if so, decide whether to vacate the suspended sentence. If the officer exercising jurisdiction decides to vacate the suspended sentence, that officer shall prepare a written statement of the evidence relied on and the reasons for vacating the suspended sentence.
+(7) Execution. Any unexecuted part of a suspended sentence ordered vacated under this subsection shall be ordered executed."
+w. R.C.M. 1201(b)(3)(A) is amended to read as follows:
+"(A) In general. Notwithstanding R.C.M. 1209, the Judge Advocate General may, sua sponte or upon application of the accused or a person with authority to act for the accused, vacate or modify, in whole or in part, the findings, sentence, or both of a court-martial that has been finally reviewed, but has not been reviewed either by a Court of Criminal Appeals or by the Judge Advocate General under subsection (b)(1) of this rule, on the ground of newly discovered evidence, fraud on the court-martial, lack of jurisdiction over the accused or the offense, error prejudicial to the substantial rights of the accused, or the appropriateness of the sentence."
+x. R.C.M. 1203(c)(1) is amended to read as follows:
+"(1) Forwarding by the Judge Advocate General to the Court of Appeals for the Armed Forces. The Judge Advocate General may forward the decision of the Court of Criminal Appeals to the Court of Appeals for the Armed Forces for review with respect to any matter of law. In such a case, the Judge Advocate General shall cause a copy of the decision of the Court of Criminal Appeals and the order forwarding the case to be served on the accused and on appellate defense counsel. While a review of a forwarded case is pending, the Secretary concerned may defer further service of a sentence to confinement that has been ordered executed in such a case."
+y. R.C.M. 1210(a) is amended by adding at the end thereof the following sentence:
+"A petition for a new trial of the facts may not be submitted on the basis of newly discovered evidence when the petitioner was found guilty of the relevant offense pursuant to a guilty plea."
+Sec. 2. Part III of the Manual for Courts-Martial, United States, is amended as follows:
+a. M.R.E. 412 is amended to read as follows:
+"Rule 412. Nonconsensual sexual offenses; relevance of victim's behavior or sexual predisposition
+(a) Evidence generally inadmissible. The following evidence is not admissible in any proceeding involving alleged sexual misconduct except as provided in subdivisions (b) and (c) of this rule:
+(1) Evidence offered to prove that any alleged victim engaged in other sexual behavior; and
+(2) Evidence offered to prove any alleged victim's sexual predisposition.
+(b) Exceptions.
+(1) In a proceeding, the following evidence is admissible, if otherwise admissible under these rules:
+(A) Evidence of specific instances of sexual behavior by the alleged victim offered to prove that a person other than the accused was the source of semen, injury, or other physical evidence;
+(B) Evidence of specific instances of sexual behavior by the alleged victim with respect to the person accused of the sexual misconduct offered by the accused to prove consent or by the prosecution; and
+(C) Evidence the exclusion of which would violate the constitutional rights of the accused.
+(c) Procedure to determine admissibility.
+(1) A party intending to offer evidence under subdivision (b) of this rule must:
+(A) file a written motion at least 5 days prior to entry of pleas specifically describing the evidence and stating the purpose for which it is offered unless the military judge, for good cause shown, requires a different time for filing or permits filing during trial; and
+(B) serve the motion on the opposing party and the military judge and notify the alleged victim or, when appropriate, the alleged victim's guardian or representative.
+(2) Before admitting evidence under this rule, the military judge must conduct a hearing, which shall be closed. At this hearing, the parties may call witnesses, including the alleged victim, and offer relevant evidence. The victim must be afforded a reasonable opportunity to attend and be heard. In a case before a court-martial composed of a military judge and members, the military judge shall conduct the hearing outside the presence of the members pursuant to Article 39(a). The motion, related papers, and the record of the hearing must be sealed and remain under seal unless the court orders otherwise.
+(3) If the military judge determines on the basis of the hearing described in paragraph (2) of this subdivision that the evidence that the accused seeks to offer is relevant and that the probative value of such evidence outweighs the danger of unfair prejudice, such evidence shall be admissible in the trial to the extent an order made by the military judge specifies evidence that may be offered and areas with respect to which the alleged victim may be examined or cross-examined.
+(d) For purposes of this rule, the term "sexual behavior" includes any sexual behavior not encompassed by the alleged offense. The term "sexual predisposition" refers to an alleged victim's mode of dress, speech, or lifestyle that does not directly refer to sexual activities or thoughts but that may have a sexual connotation for the factfinder.
+(e) A "nonconsensual sexual offense" is a sexual offense in which consent by the victim is an affirmative defense or in which the lack of consent is an element of the offense. This term includes rape, forcible sodomy, assault with intent to commit rape or forcible sodomy, indecent assault, and attempts to commit such offenses."
+b. M.R.E. 413 is added to read as follows:
+"Rule 413. Evidence of Similar Crimes in Sexual Assault Cases
+(a) In a court-martial in which the accused is charged with an offense of sexual assault, evidence of the accused's commission of one or more offenses of sexual assault is admissible and may be considered for its bearing on any matter to which it is relevant.
+(b) In a court-martial in which the Government intends to offer evidence under this rule, the Government shall disclose the evidence to the accused, including statements of witnesses or a summary of the substance of any testimony that is expected to be offered, at least 5 days before the scheduled date of trial, or at such later time as the military judge may allow for good cause.
+(c) This rule shall not be construed to limit the admission or consideration of evidence under any other rule.
+(d) For purposes of this rule, "offense of sexual assault" means an offense punishable under the Uniform Code of Military Justice, or a crime under Federal law or the law of a State that involved—
+(1) any sexual act or sexual contact, without consent, proscribed by the Uniform Code of Military Justice, Federal law, or the law of a State;
+(2) contact, without consent of the victim, between any part of the accused's body, or an object held or controlled by the accused, and the genitals or anus of another person;
+(3) contact, without consent of the victim, between the genitals or anus of the accused and any part of another person's body;
+(4) deriving sexual pleasure or gratification from the infliction of death, bodily injury, or physical pain on another person; or
+(5) an attempt or conspiracy to engage in conduct described in paragraphs (1) through (4).
+(e) For purposes of this rule, the term "sexual act" means:
+(1) contact between the penis and the vulva or the penis and the anus, and for purposes of this rule, contact occurs upon penetration, however slight, of the penis into the vulva or anus;
+(2) contact between the mouth and the penis, the mouth and the vulva, or the mouth and the anus;
+(3) the penetration, however slight, of the anal or genital opening of another by a hand or finger or by any object, with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person; or
+(4) the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years, with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
+(f) For purposes of this rule, the term "sexual contact" means the intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
+(g) For purposes of this rule, the term "State" includes a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, and any other territory or possession of the United States."
+c. M.R.E. 414 is added to read as follows:
+"Rule 414. Evidence of Similar Crimes in Child Molestation Cases
+(a) In a court-martial in which the accused is charged with an offense of child molestation, evidence of the accused's commission of one or more offenses of child molestation is admissible and may be considered for its bearing on any matter to which it is relevant.
+(b) In a court-martial in which the Government intends to offer evidence under this rule, the Government shall disclose the evidence to the accused, including statements of witnesses or a summary of the substance of any testimony that is expected to be offered, at least 5 days before the scheduled date of trial or at such later time as the military judge may allow for good cause.
+(c) This rule shall not be construed to limit the admission or consideration of evidence under any other rule.
+(d) For purposes of this rule, "child" means a person below the age of sixteen, and "offense of child molestation" means an offense punishable under the Uniform Code of Military Justice, or a crime under Federal law or the law of a State that involved—
+(1) any sexual act or sexual contact with a child proscribed by the Uniform Code of Military Justice, Federal law, or the law of a State;
+(2) any sexually explicit conduct with children proscribed by the Uniform Code of Military Justice, Federal law, or the law of a State;
+(3) contact between any part of the accused's body, or an object controlled or held by the accused, and the genitals or anus of a child;
+(4) contact between the genitals or anus of the accused and any part of the body of a child;
+(5) deriving sexual pleasure or gratification from the infliction of death, bodily injury, or physical pain on a child; or
+(6) an attempt or conspiracy to engage in conduct described in paragraphs (1) through (5) of this subdivision.
+(e) For purposes of this rule, the term "sexual act" means:
+(1) contact between the penis and the vulva or the penis and the anus, and for purposes of this rule contact occurs upon penetration, however slight, of the penis into the vulva or anus;
+(2) contact between the mouth and the penis, the mouth and the vulva, or the mouth and the anus;
+(3) the penetration, however slight, of the anal or genital opening of another by a hand or finger or by any object, with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person; or
+(4) the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years, with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
+(f) For purposes of this rule, the term "sexual contact" means the intentional touching, either directly or through the clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
+(g) For purpose of this rule, the term "sexually explicit conduct" means actual or simulated:
+(1) sexual intercourse, including genital-genital, oral-genital, anal-genital, or oral-anal, whether between persons of the same or opposite sex;
+(2) bestiality;
+(3) masturbation;
+(4) sadistic or masochistic abuse; or
+(5) lascivious exhibition of the genitals or pubic area of any person.
+(h) For purposes of this rule, the term "State" includes a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, and any other territory or possession of the United States."
+d. M.R.E. 1102 is amended to read as follows:
+"Amendments to the Federal Rules of Evidence shall apply to the Military Rules of Evidence 18 months after the effective date of such amendments, unless action to the contrary is taken by the President."
+Sec. 3. Part IV of the Manual for Courts-Martial, United States, is amended as follows:
+a. Paragraph 19 is amended to read as follows:
+"19. Article 95—Resistance, flight, breach of arrest, and escape
+a. Text.
+"Any person subject to this chapter who—
+(1) resists apprehension;
+(2) flees from apprehension;
+(3) breaks arrest; or
+(4) escapes from custody or confinement shall be punished as a court-martial may direct."
+b. Elements.
+(1) Resisting apprehension.
+(a) That a certain person attempted to apprehend the accused;
+(b) That said person was authorized to apprehend the accused; and
+(c) That the accused actively resisted the apprehension.
+(2) Flight from apprehension.
+(a) That a certain person attempted to apprehend the accused;
+(b) That said person was authorized to apprehend the accused; and
+(c) That the accused fled from the apprehension.
+(3) Breaking arrest.
+(a) That a certain person ordered the accused into arrest;
+(b) That said person was authorized to order the accused into arrest; and
+(c) That the accused went beyond the limits of arrest before being released from that arrest by proper authority.
+(4) Escape from custody.
+(a) That a certain person apprehended the accused;
+(b) That said person was authorized to apprehend the accused; and
+(c) That the accused freed himself or herself from custody before being released by proper authority.
+(5) Escape from confinement.
+(a) That a certain person ordered the accused into confinement;
+(b) That said person was authorized to order the accused into confinement; and
+(c) That the accused freed himself or herself from confinement before being released by proper authority. [Note: If the escape was from post-trial confinement, add the following element]
+(d) That the confinement was the result of a court-martial conviction.
+c. Explanation.
+(1) Resisting apprehension.
+(a) Apprehension. Apprehension is the taking of a person into custody. See R.C.M. 302.
+(b) Authority to apprehend. See R.C.M. 302(b) concerning who may apprehend. Whether the status of a person authorized that person to apprehend the accused is a question of law to be decided by the military judge. Whether the person who attempted to make an apprehension had such a status is a question of fact to be decided by the factfinder.
+(c) Nature of the resistance. The resistance must be active, such as assaulting the person attempting to apprehend. Mere words of opposition, argument, or abuse, and attempts to escape from custody after the apprehension is complete, do not constitute the offense of resisting apprehension although they may constitute other offenses.
+(d) Mistake. It is a defense that the accused held a reasonable belief that the person attempting to apprehend did not have authority to do so. However, the accused's belief at the time that no basis existed for the apprehension is not a defense.
+(e) Illegal apprehension. A person may not be convicted of resisting apprehension if the attempted apprehension is illegal, but may be convicted of other offenses, such as assault, depending on all the circumstances. An attempted apprehension by a person authorized to apprehend is presumed to be legal in the absence of evidence to the contrary. Ordinarily the legality of an apprehension is a question of law to be decided by the military judge.
+(2) Flight from apprehension. The flight must be active, such as running or driving away.
+(3) Breaking arrest.
+(a) Arrest. There are two types of arrest: pretrial arrest under Article 9 (see R.C.M. 304), and arrest under Article 15 (see paragraph 5c.(3), Part V, MCM). This article prohibits breaking any arrest.
+(b) Authority to order arrest. See R.C.M. 304(b) and paragraphs 2 and 5b, Part V, MCM, concerning authority to order arrest.
+(c) Nature of restraint imposed by arrest. In arrest, the restraint is moral restraint imposed by orders fixing the limits of arrest.
+(d) Breaking. Breaking arrest is committed when the person in arrest infringes the limits set by orders. The reason for the infringement is immaterial. For example, innocence of the offense with respect to which an arrest may have been imposed is not a defense.
+(e) Illegal arrest. A person may not be convicted of breaking arrest if the arrest is illegal. An arrest ordered by one authorized to do so is presumed to be legal in the absence of some evidence to the contrary. Ordinarily, the legality of an arrest is a question of law to be decided by the military judge.
+(4) Escape from custody.
+(a) Custody. "Custody" is restraint of free locomotion imposed by lawful apprehension. The restraint may be physical or, once there has been a submission to apprehension or a forcible taking into custody, it may consist of control exercised in the presence of the prisoner by official acts or orders. Custody is temporary restraint intended to continue until other restraint (arrest, restriction, confinement) is imposed or the person is released.
+(b) Authority to apprehend. See subparagraph (1)(b) above.
+(c) Escape. For a discussion of escape, see subparagraph c(5)(c), below.
+(d) Illegal custody. A person may not be convicted of this offense if the custody was illegal. An apprehension effected by one authorized to apprehend is presumed to be lawful in the absence of evidence to the contrary. Ordinarily, the legality of an apprehension is a question of law to be decided by the military judge.
+(e) Correctional custody. See paragraph 70.
+(5) Escape from confinement.
+(a) Confinement. Confinement is physical restraint imposed under R.C.M. 305, 1101, or paragraph 5b, Part V, MCM. For purposes of the element of post-trial confinement (subparagraph b(5)(d), above) and increased punishment therefrom (subparagraph e(4), below), the confinement must have been imposed pursuant to an adjudged sentence of a court-martial, and not as a result of pretrial restraint or nonjudicial punishment.
+(b) Authority to order confinement. See R.C.M. 304(b), 1101, and paragraphs 2 and 5b, Part V, MCM, concerning who may order confinement.
+(c) Escape. An escape may be either with or without force or artifice, and either with or without the consent of the custodian. However, where a prisoner is released by one with apparent authority to do so, the prisoner may not be convicted of escape from confinement. See also paragraph 20c.(l)(b). Any completed casting off of the restraint of confinement, before release by proper authority, is an escape,
+and lack of effectiveness of the restraint imposed is immaterial. An escape is not complete until the prisoner is momentarily free from the restraint. If the movement toward escape is opposed, or before it is completed, an immediate pursuit follows, there is no escape until opposition is overcome or pursuit is eluded.
+(d) Status when temporarily outside confinement facility. A prisoner who is temporarily escorted outside a confinement facility for a work detail or other reason by a guard, who has both the duty and means to prevent that prisoner from escaping, remains in confinement.
+(e) Legality of confinement. A person may not be convicted of escape from confinement if the confinement is illegal. Confinement ordered by one authorized to do so is presumed to be lawful in the absence of evidence to the contrary. Ordinarily, the legality of confinement is a question of law to be decided by the military judge.
+d. Lesser included offenses.
+(1) Resisting apprehension. Article 128—assault; assault consummated by a battery
+(2) Breaking arrest.
+(a) Article 134—breaking restriction
+(b) Article 80—attempts
+(3) Escape from custody. Article 80—attempts
+(4) Escape from confinement. Article 80—attempts
+e. Maximum punishment.
+(1) Resisting apprehension. Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 1 year.
+(2) Flight from apprehension. Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 1 year.
+(3) Breaking arrest. Bad-conduct discharge, forfeiture of all pay and allowances, and confinement for 6 months.
+(4) Escape from custody, pretrial confinement, or confinement on bread and water or diminished rations imposed pursuant to Article 15. Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 1 year.
+(5) Escape from post-trial confinement. Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
+f. Sample specifications.
+(1) Resisting apprehension.
+In that ____________ (personal jurisdiction data), did (at/on board—location) (subject-matter jurisdiction data, if required), on or about ______________, 19____, resist being apprehended by ________, (an armed force policeman) ( ________ ), a person authorized to apprehend the accused.
+(2) Flight from apprehension.
+In that ____________ (personal jurisdiction data), did (at/on board—location) (subject matter jurisdiction data, if required), on or about ____________ 19____, flee apprehension by ____________ (an armed force policeman) ( ____________ ), a person authorized to apprehend the accused.
+(3) Breaking arrest.
+In that ____________ (personal jurisdiction data), having been placed in arrest (in quarters) (in his/her company area) ( ____________ ) by a person authorized to order the accused into arrest, did, (at/on board—location) on or about ____________ 19____, break said arrest.
+(4) Escape from custody.
+In that ____________ (personal jurisdiction data), did, (at/on board—location) (subject-matter jurisdiction data, if required), on or about ____________ 19____, escape from the custody of ____________, a person authorized to apprehend the accused.
+(5) Escape from confinement.
+In that ____________ (personal jurisdiction data), having been placed in (post-trial) confinement in (place of confinement), by a person authorized to order said accused into confinement did, (at/on board—location) (subject-matter jurisdiction data, if required), on or about ____________ 19____, escape from confinement."
+b. The following new paragraph is added after paragraph 97:
+"97a. Article 134—(Parole, Violation of)
+a. Text. See paragraph 60.
+b. Elements.
+(1) That the accused was a prisoner as the result of a court-martial conviction or other criminal proceeding;
+(2) That the accused was on parole;
+(3) That there were certain conditions of parole that the parolee was bound to obey;
+(4) That the accused violated the conditions of parole by doing an act or failing to do an act; and
+(5) That, under the circumstances, the conduct of the accused was to the prejudice of good order and discipline in the armed forces or was of a nature to bring discredit upon the armed forces.
+c. Explanation.
+(1) "Prisoner" refers only to those in confinement resulting from conviction at a court-martial or other criminal proceeding.
+(2) "Parole" is defined as "word of honor." A prisoner on parole, or parolee, has agreed to adhere to a parole plan and conditions of parole. A "parole plan" is a written or oral agreement made by the prisoner prior to parole to do or refrain from doing certain acts or activities. A parole plan
+may include a residence requirement stating where and with whom a parolee will live, and a requirement that the prisoner have an offer of guaranteed employment. "Conditions of parole" include the parole plan and other reasonable and appropriate conditions of parole, such as paying restitution, beginning or continuing treatment for alcohol or drug abuse, or paying a fine ordered executed as part of the prisoner's court-martial sentence. In return for giving his or her "word of honor" to abide by a parole plan and conditions of parole, the prisoner is granted parole.
+d. Lesser included offense. Article 80—attempts.
+e. Maximum punishment. Bad-conduct discharge, confinement for 6 months, and forfeiture of two-thirds pay per month for 6 months.
+f. Sample specification.
+In that ____________ (personal jurisdiction data), a prisoner on parole, did, (at/on board—location), on or about __________, 19____, violate the conditions of his/her parole by ____________."
+c. Paragraph 45.a and b are amended to read as follows:
+"45. Article 120—Rape and carnal knowledge
+a. Text.
+"(a) Any person subject to this chapter who commits an act of sexual intercourse by force and without consent, is guilty of rape and shall be punished by death or such other punishment as a court-martial may direct.
+(b) Any person subject to this chapter who, under circumstances not amounting to rape, commits an act of sexual intercourse with a person—
+(1) who is not his or her spouse; and
+(2) who has not attained the age of sixteen years; is guilty of carnal knowledge and shall be punished as a court-martial may direct.
+(c) Penetration, however slight, is sufficient to complete either of these offenses.
+(d)(1) In a prosecution under subsection (b), it is an affirmative defense that—
+(A) the person with whom the accused committed the act of sexual intercourse had at the time of the alleged offense attained the age of twelve years; and
+(B) the accused reasonably believed that the person had at the time of the alleged offense attained the age of 16 years.
+(2) The accused has the burden of proving a defense under subparagraph (d)(1) by a preponderance of the evidence."
+b. Elements.
+(1) Rape.
+(a) That the accused committed an act of sexual intercourse; and
+(b) That the act of sexual intercourse was done by force and without consent.
+(2) Carnal knowledge.
+(a) That the accused committed an act of sexual intercourse with a certain person;
+(b) That the person was not the accused's spouse; and
+(c) That at the time of the sexual intercourse the person was under 16 years of age."
+d. Paragraph 45c.(2) is amended to read as follows:
+"(2) Carnal knowledge. "Carnal knowledge" is sexual intercourse under circumstances not amounting to rape, with a person who is not the accused's spouse and who has not attained the age of 16 years. Any penetration, however slight, is sufficient to complete the offense. It is a defense, however, which the accused must prove by a preponderance of the evidence, that at the time of the act of sexual intercourse, the person with whom the accused committed the act of sexual intercourse was at least 12 years of age, and that the accused reasonably believed that this same person was at least 16 years of age."
+e. Paragraph 54e.(1) is amended to read as follows:
+"(1) Simple Assault.
+(A) Generally. Confinement for 3 months and forfeiture of two-thirds pay per month for 3 months.
+(B) When committed with an unloaded firearm. Dishonorable discharge, forfeiture of all pay and allowances, and confinement for 3 years."
+Sec. 4. These amendments shall take effect on May 27, 1998, subject to the following:
+(a) The amendments made to Military Rules of Evidence 412, 413, and 414 shall apply only to courts-martial in which arraignment has been completed on or after June 26, 1998.
+(b) Nothing contained in these amendments shall be construed to make punishable any act done or omitted prior to June 26, 1998, which was not punishable when done or omitted.
+(c) The amendment made to Part IV, para. 45c.(2), authorizing a mistake of fact defense as to age in carnal knowledge prosecutions is effective in all cases in which the accused was arraigned on the offense of carnal knowledge, or for a greater offense that is later reduced to the lesser included offense of carnal knowledge, on or after February 10, 1996.
+(d) Nothing in these amendments shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to May 27, 1998, and any such nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial or other action may proceed in the same manner and with the same effect as if these amendments had not been prescribed.
+William J. Clinton
+The White House,
+May 27, 1998.

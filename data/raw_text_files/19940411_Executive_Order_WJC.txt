@@ -1,0 +1,68 @@
+Geographic information is critical to promote economic development, improve our stewardship of natural resources, and protect the environment. Modern technology now permits improved acquisition, distribution, and utilization of geographic (or geospatial) data and mapping. The National Performance Review has recommended that the executive branch develop, in cooperation with State, local, and tribal governments, and the private sector, a coordinated National Spatial Data Infrastructure to support public and private sector applications of geospatial data in such areas as transportation, community development, agriculture, emergency response, environmental management, and information technology.
+Now, Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America; and to implement the recommendations of the National Performance Review; to advance the goals of the National Information Infrastructure; and to avoid wasteful duplication of effort and promote effective and economical management of resources by Federal, State, local, and tribal governments, it is ordered as follows:
+Section 1.
+Definitions.
+ (a) "National Spatial Data Infrastructure" ("NSDI") means the technology, policies, standards, and human resources necessary to acquire, process, store, distribute, and improve utilization of geospatial data.
+(b) "Geospatial data" means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth. This information may be derived from, among other things, remote sensing, mapping, and surveying technologies. Statistical data may be included in this definition at the discretion of the collecting agency.
+(c) The "National Geospatial Data Clearinghouse" means a distributed network of geospatial data producers, managers, and users linked electronically.
+Sec. 2.
+Executive Branch Leadership for Development of the Coordinated National Spatial Data Infrastructure.
+ (a) The Federal Geographic Data Committee ("FGDC"), established by the Office of Management and Budget ("OMB") Circular No. A–16 ("Coordination of Surveying, Mapping, and Related Spatial Data Activities") and chaired by the Secretary of the Department of the Interior ("Secretary") or the Secretary's designee, shall coordinate the Federal Government's development of the NSDI.
+(b) Each member agency shall ensure that its representative on the FGDC holds a policy-level position.
+(c) Executive branch departments and agencies ("agencies") that have an interest in the development of the NSDI are encouraged to join the FGDC.
+(d) This Executive order is intended to strengthen and enhance the general policies described in OMB Circular No. A–16. Each agency shall meet its respective responsibilities under OMB Circular No. A–16.
+(e) The FGDC shall seek to involve State, local, and tribal governments in the development and implementation of the initiatives contained in this order. The FGDC shall utilize the expertise of academia, the private sector, professional societies, and others as necessary to aid in the development and implementation of the objectives of this order.
+Sec. 3.
+Development of a National Geospatial Data Clearinghouse.
+ (a)
+Establishing a National Geospatial Data Clearinghouse.
+ The Secretary, through the FGDC, and in consultation with, as appropriate, State, local, and tribal governments and other affected parties, shall take steps within 6 months of the date of this order, to establish an electronic National Geospatial Data Clearinghouse ("Clearinghouse") for the NSDI. The Clearinghouse shall be compatible with the National Information Infrastructure to enable integration with that effort.
+(b)
+Standardized Documentation of Data.
+ Beginning 9 months from the date of this order, each agency shall document all new geospatial data it collects or produces, either directly or indirectly, using the standard under development by the FGDC, and make that standardized documentation electronically accessible to the Clearinghouse network. Within 1 year of the date of this order, agencies shall adopt a schedule, developed in consultation with the FGDC, for documenting, to the extent practicable, geospatial data previously collected or produced, either directly or indirectly, and making that data documentation electronically accessible to the Clearinghouse network.
+(c)
+Public Access to Geospatial Data.
+ Within 1 year of the date of this order, each agency shall adopt a plan, in consultation with the FGDC, establishing procedures to make geospatial data available to the public, to the extent permitted by law, current policies, and relevant OMB circulars, including OMB Circular No. A–130 ("Management of Federal Information Resources") and any implementing bulletins.
+(d)
+Agency Utilization of the Clearinghouse.
+ Within 1 year of the date of this order, each agency shall adopt internal procedures to ensure that the agency accesses the Clearinghouse before it expends Federal funds to collect or produce new geospatial data, to determine whether the information has already been collected by others, or whether cooperative efforts to obtain the data are possible.
+(e)
+Funding.
+ The Department of the Interior shall provide funding for the Clearinghouse to cover the initial prototype testing, standards development, and monitoring of the performance of the Clearinghouse. Agencies shall continue to fund their respective programs that collect and produce geospatial data; such data is then to be made part of the Clearinghouse for wider accessibility.
+Sec. 4.
+Data Standards Activities.
+ (a)
+General FGDC Responsibility.
+ The FGDC shall develop standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private and academic sectors, and, to the extent feasible, the international community, consistent with OMB Circular No. A–119 ("Federal Participation in the Development and Use of Voluntary Standards"), and other applicable law and policies.
+(b)
+Standards for Which Agencies Have Specific Responsibilities.
+ Agencies assigned responsibilities for data categories by OMB Circular No. A–16 shall develop, through the FGDC, standards for those data categories, so as to ensure that the data produced by all agencies are compatible.
+(c)
+Other Standards.
+ The FGDC may from time to time identify and develop, through its member agencies, and to the extent permitted by law, other standards necessary to achieve the objectives of this order. The FGDC will promote the use of such standards and, as appropriate, such standards shall be submitted to the Department of Commerce for consideration as Federal Information Processing Standards. Those standards shall apply to geospatial data as defined in section 1 of this order.
+(d)
+Agency Adherence to Standards.
+ Federal agencies collecting or producing geospatial data, either directly or indirectly (e.g. through grants, partnerships, or contracts with other entities), shall ensure, prior to obligating funds for such activities, that data will be collected in a manner that meets all relevant standards adopted through the FGDC process.
+Sec. 5.
+National Digital Geospatial Data Framework.
+ In consultation with State, local, and tribal governments and within 9 months of the date of this order, the FGDC shall submit a plan and schedule to OMB for completing the initial implementation of a national digital geospatial data framework ("framework") by January 2000 and for establishing a process of ongoing data maintenance. The framework shall include geospatial data that are significant, in the determination of the FGDC, to a broad variety of users within any geographic area or nationwide. At a minimum, the plan shall address how the initial transportation, hydrology, and boundary elements of the framework might be completed by January 1998 in order to support the decennial census of 2000.
+Sec. 6.
+Partnerships for Data Acquisition.
+ The Secretary, under the auspices of the FGDC, and within 9 months of the date of this order, shall develop, to the extent permitted by law, strategies for maximizing cooperative participatory efforts with State, local, and tribal governments, the private sector, and other nonfederal organizations to share costs and improve efficiencies of acquiring geospatial data consistent with this order.
+Sec. 7.
+Scope.
+ (a) For the purposes of this order, the term "agency" shall have the same meaning as the term "Executive agency" in 5 U.S.C. 105, and shall include the military departments and components of the Department of Defense.
+(b) The following activities are exempt from compliance with this order:
+(i) national security-related activities of the Department of Defense as determined by the Secretary of Defense;
+(ii) national defense-related activities of the Department of Energy as determined by the Secretary of Energy; and
+(iii) intelligence activities as determined by the Director of Central Intelligence.
+(c) The NSDI may involve the mapping, charting, and geodesy activities of the Department of Defense relating to foreign areas, as determined by the Secretary of Defense.
+(d) This order does not impose any requirements on tribal governments.
+(e) Nothing in the order shall be construed to contravene the development of Federal Information Processing Standards and Guidelines adopted and promulgated under the provisions of section 111(d) of the Federal Property and Administrative Services Act of 1949, as amended by the Computer Security Act of 1987 (Public Law 100–235), or any other United States law, regulation, or international agreement.
+Sec. 8.
+Judicial Review.
+ This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+William J. Clinton
+The White House,
+April 11, 1994.
+[Filed with the Office of the Federal Register, 11:32 a.m., April 12, 1994]
