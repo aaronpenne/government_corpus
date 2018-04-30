@@ -1,0 +1,12 @@
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to create the Information Coordination Center to assist the Chair of the President's Council on Year 2000 Conversion in addressing year 2000 conversion problems both domestically and internationally, it is hereby ordered that Executive Order 13073 is amended as follows:
+Section 1. A new section 5 is added to the order and shall read "Sec. 5. Information Coordination Center. (a) To assist the Chair in the Y2K response duties included under section 2(c) of this order, there shall be established the Information Coordination Center (ICC) in the General Services Administration.
+(b) At the direction of the Chair, the ICC will assist in making preparations for information sharing and coordination within the Federal Government and key components of the public and private sectors, coordinating agency assessments of Y2K emergencies that could have an adverse affect on U.S. interests at home and abroad, and, if necessary, assisting Federal agencies and the Chair in reconstitution processes where appropriate.
+(c) The ICC will:
+(1) consist of officials from executive agencies, designated by agency heads under subsection 3(a)(2) of this order, who have expertise in important management and technical areas, computer hardware, software or security systems, reconstitution and recovery, and of additional personnel hired directly or by contract, as required, to carry out the duties described under section 5 of this order;
+(2) work with the Council and the Office of Management and Budget to assure that Federal efforts to restore critical systems are coordinated with efforts managed by Federal agencies acting under existing emergency response authorities."
+(d) The Chair of the President's Council on Year 2000 Conversion shall designate a Director of the ICC.
+Sec. 2. The preexisting section 5 of Executive Order 13073 shall be renumbered as section 6.
+William J. Clinton
+The White House,
+June 14, 1999.
+[Filed with the Office of the Federal Register, 9:02 a.m., June 16, 1999]
