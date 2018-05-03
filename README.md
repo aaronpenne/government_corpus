@@ -12,28 +12,28 @@ The APP, hosted at the University of California, Santa Barbara, has been a colla
 
 The site includes the full text of executive orders, presidential debates, and much more. Checked boxes mean the scraper can get those documents.
 
-[ ] Messages and Papers of the Presidents
-[ ] Public Papers of the Presidents
-[ ] Public Papers and Addresses of Franklin D. Roosevelt
-[ ] Weekly Compilation of Presidential Documents
-[ ] Daily Compilation of Presidential Documents
-[ ] Annual Messages to Congress on the State of the Union
-[ ] Inaugural Addresses
-[ ] Farewell Addresses
-[ ] The President's Weekly Addresses
-[ ] Fireside Chats
-[ ] News Conferences
-[x] Executive Orders
-[x] Proclamations
-[ ] Presidential Signing Statements
-[ ] The Economic Report of the President
-[ ] Statements of Administration Policy
-[ ] White House Media Pool Reports
-[ ] Remarks by the Vice President
-[ ] Remarks and Statements by the First Lady
-[ ] Presidential Nomination Acceptance Speeches and Addresses
-[ ] Presidential Candidates Debates
-[ ] Documents Related to Presidential Elections
-[ ] Documents Related to the 2000 Election Dispute
-[ ] Documents Related to Presidential Transitions
-[ ] National Political Party Platforms
+- [ ] Messages and Papers of the Presidents
+- [ ] Public Papers of the Presidents
+- [ ] Public Papers and Addresses of Franklin D. Roosevelt
+- [ ] Weekly Compilation of Presidential Documents
+- [ ] Daily Compilation of Presidential Documents
+- [ ] Annual Messages to Congress on the State of the Union
+- [ ] Inaugural Addresses
+- [ ] Farewell Addresses
+- [ ] The President's Weekly Addresses
+- [ ] Fireside Chats
+- [ ] News Conferences
+- [x] Executive Orders
+- [x] Proclamations
+- [ ] Presidential Signing Statements
+- [ ] The Economic Report of the President
+- [ ] Statements of Administration Policy
+- [ ] White House Media Pool Reports
+- [ ] Remarks by the Vice President
+- [ ] Remarks and Statements by the First Lady
+- [ ] Presidential Nomination Acceptance Speeches and Addresses
+- [ ] Presidential Candidates Debates
+- [ ] Documents Related to Presidential Elections
+- [ ] Documents Related to the 2000 Election Dispute
+- [ ] Documents Related to Presidential Transitions
+- [ ] National Political Party Platforms
